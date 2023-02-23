@@ -1,7 +1,8 @@
 ![MasterHead](https://d5uypbhftju9l.cloudfront.net/img/article/meja-komputer-recommended-untuk-menemani-wfhmu-113.jpg?20220104081215)
 
-<h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A passionate fullstack developer from Brazil</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋+WELCOME,+I+am+20+years+old;I+am+Bruno+Correia+Nicolai;A+passionate+fullstack+developer+from+Brazil+:%29)](https://www.linkedin.com/in/dev-bruno-nicolai)
+
+<h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_n1b2c3Xl171st1te9o1_500.gif"
 
 - 🔭 I’m currently working on **getting a job**
@@ -59,8 +60,7 @@
 
 <br><br>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bruno-nicolai&show_icons=true&locale=en&layout=compact" alt="bruno-nicolai" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bruno-nicolai&show_icons=true&locale=en" alt="bruno-nicolai" /></p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=bruno-nicolai&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Bruno github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-nicolai&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
