@@ -19,6 +19,11 @@
 
 - **I wanted to know what am I supposed to be, but I was supposed to know that I have always loved technology**
 
+
+<br><br>
+
+![snake gif](https://github.com/Bruno-Nicolai/Bruno-Nicolai/blob/output/github-contribution-grid-snake.gif)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bruno-nicolai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-nicolai" height="30" width="40" /></a> &emsp;
