@@ -1,6 +1,6 @@
 ![MasterHead](https://d5uypbhftju9l.cloudfront.net/img/article/meja-komputer-recommended-untuk-menemani-wfhmu-113.jpg?20220104081215)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hi+👋+WELCOME,+I+am+20+years+old;I+am+Bruno+Correia+Nicolai;A+passionate+fullstack+developer+from+Brazil+:%29)](https://www.linkedin.com/in/dev-bruno-nicolai)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Greetings!+👋+WELCOME,+I+am+Bruno+Nicolai;A+passionate+junior+developer;with+an+unwavering+love+for+programming;And+a+vision;to+become+one+of+the+America's;and+beyond;top+fullstack/mobile+developers;Leaving+an+impact+that+extends+everywhere:+%29)](https://www.linkedin.com/in/dev-bruno-nicolai)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
